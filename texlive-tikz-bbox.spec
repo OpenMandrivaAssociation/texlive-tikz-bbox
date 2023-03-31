@@ -1,6 +1,6 @@
 Name:		texlive-tikz-bbox
 Version:	57444
-Release:	1
+Release:	2
 Summary:	Precise determination of bounding boxes in TikZ
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikz-bbox
