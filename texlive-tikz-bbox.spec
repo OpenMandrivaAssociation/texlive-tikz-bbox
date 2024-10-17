@@ -3,7 +3,7 @@ Version:	57444
 Release:	2
 Summary:	Precise determination of bounding boxes in TikZ
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikz-bbox
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tikz-bbox
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikz-bbox.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikz-bbox.doc.r%{version}.tar.xz
